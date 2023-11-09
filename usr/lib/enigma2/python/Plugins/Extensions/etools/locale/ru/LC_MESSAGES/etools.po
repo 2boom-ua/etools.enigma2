@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2boom's enigma2 toolbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-18 01:13+0100\n"
+"PO-Revision-Date: 2022-06-18 09:49+0300\n"
+"Last-Translator: 4bob@ua.fm\n"
+"Language-Team: 4bob@ua.fm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.8.8\n"
+
+msgid "Off"
+msgstr ""
+
+msgid "15 min"
+msgstr ""
+
+msgid "30 min"
+msgstr ""
+
+msgid "45 min"
+msgstr ""
+
+msgid "60 min"
+msgstr ""
+
+msgid "120 min"
+msgstr ""
+
+msgid "180 min"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Amazon NTP"
+msgstr ""
+
+msgid "Google Public NTP"
+msgstr ""
+
+msgid "Cloudflare NTP"
+msgstr ""
+
+msgid "Facebook NTP"
+msgstr ""
+
+msgid "Microsoft NTP"
+msgstr ""
+
+msgid "Google DNS"
+msgstr ""
+
+msgid "Quad9 DNS"
+msgstr ""
+
+msgid "Cloudflare DNS"
+msgstr ""
+
+msgid "AdGuard DNS"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "one remove"
+msgstr ""
+
+msgid "all remove"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Multi"
+msgstr ""
+
+msgid "Multi files"
+msgstr ""
+
+msgid "Single"
+msgstr ""
+
+msgid "Single file"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Jule"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wensday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saterday"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Minute"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Day of week"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Config"
+msgstr ""
+
+msgid "E-Softcam manager (%s)"
+msgstr ""
+
+msgid "Start, stop, restart softcam"
+msgstr ""
+
+
+
+msgid "Install/uninstall local .ipk & .tar.gz"
+msgstr ""
+
+msgid "E-Remover for packets"
+msgstr ""
+
+msgid "Local remove ipk packets"
+msgstr ""
+
+msgid "E-Feed Installer"
+msgstr ""
+
+msgid "Install extensions from feed"
+msgstr ""
+
+msgid "E-Feed Downloader"
+msgstr ""
+
+msgid "Download extensions from feed"
+msgstr ""
+
+msgid "E-Crash viewer (%s)"
+msgstr ""
+
+msgid "Enigma2 crashlog viewer"
+msgstr ""
+
+msgid "E-Swap manager (%s)"
+msgstr ""
+
+msgid "Create, start, stop, remove swapfile"
+msgstr ""
+
+msgid "E-Script (%s)"
+msgstr ""
+
+msgid "Start script files from user directory"
+msgstr ""
+
+msgid "E-Cron editor"
+msgstr ""
+
+msgid "Add, remove tabs"
+msgstr ""
+
+msgid "E-Kernel module manager"
+msgstr ""
+
+msgid "Load/unload kernel module"
+msgstr ""
+
+msgid "E-Tools config"
+msgstr ""
+
+msgid "E-Tools: in Main Menu"
+msgstr ""
+
+msgid "When Enabled E-TOOLS will appear in the main menu"
+msgstr ""
+
+msgid "E-Tools: MenuMode in Plugins Menu"
+msgstr ""
+
+msgid "Choosing a view (menu or configuration) in the plugins menu"
+msgstr ""
+
+msgid "E-Tools: Menu Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-TOOLS Menu will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Tools: Config Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-TOOLS Configuration will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Softcam: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Softcam Manager will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Softcam Restart: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Softcam Restarter will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Softcam Restart: Hotkey"
+msgstr ""
+
+msgid "Choosing a Hotkey for Restart softcam"
+msgstr ""
+
+msgid "E-Softcam Switch Config: Restart Emu after Switch config"
+msgstr ""
+
+msgid "When enabled, Emu will restart after switch config"
+msgstr ""
+
+msgid "E-Softcam Switch Config: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Softcam Switch Config will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Softcam Switch Config: Hotkey"
+msgstr ""
+
+msgid "Choosing a Hotkey for E-Softcam Switch Config"
+msgstr ""
+
+msgid "E-Installer: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Installer will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Installer: Select Multi or Single file mode"
+msgstr ""
+
+msgid "Mode selection (multiple or single) for installation packages"
+msgstr ""
+
+msgid "E-Installer: Force install mode"
+msgstr ""
+
+msgid "Selecting a Mode for Forced Installation of Packages"
+msgstr ""
+
+msgid "E-Installer: User directory on mount device"
+msgstr ""
+
+msgid "Selecting a directory to search for installation packages"
+msgstr ""
+
+msgid "E-Feed Downloder: Filter extentions"
+msgstr ""
+
+msgid "Selecting filters to quickly find packages for E-Feed Downloder"
+msgstr ""
+
+msgid "E-Feed Installer: Filter extentions"
+msgstr ""
+
+msgid "Selecting filters to quickly find packages for E-Feed Installer"
+msgstr ""
+
+msgid "E-Remover: Filter extentions"
+msgstr ""
+
+msgid "Selecting filters to quickly find packages for E-Remover"
+msgstr ""
+
+msgid "E-Crash: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Crash viewer will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Crash: Path for crashlog files"
+msgstr ""
+
+msgid "Selecting path to quickly find crash log files"
+msgstr ""
+
+msgid "E-Crash: Remove files mode"
+msgstr ""
+
+msgid "Selecting a Mode (single or all) for remove crash log files"
+msgstr ""
+
+msgid "E-Script: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Script will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Script: Path for script files"
+msgstr ""
+
+msgid "Selecting path to quickly find script files"
+msgstr ""
+
+msgid "E-Reload: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-Reload will appear in the extensions menu"
+msgstr ""
+
+msgid "E-Reload: Mode"
+msgstr ""
+
+msgid "Choosing a mode (Lamedb or Userbouquets) for E-Reload"
+msgstr ""
+
+msgid "E-Reload: Hotkey"
+msgstr ""
+
+msgid "Choosing a Hotkey for E-Reload"
+msgstr ""
+
+msgid "E-HDMI-IN On/Off: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-HDMI-IN (On/Off) will appear in the extensions menu"
+msgstr ""
+
+msgid "E-HDMI-IN: Hotkey"
+msgstr ""
+
+msgid "Choosing a Hotkey for E-HDMI-IN"
+msgstr ""
+
+msgid "E-AC3,DTS downmix: Show in ExtensionMenu"
+msgstr ""
+
+msgid "When enabled, the E-AC3,DTS downmix will appear in the extensions menu"
+msgstr ""
+
+msgid "E-AC3,DTS downmix: Hotkey"
+msgstr ""
+
+msgid "Choosing a Hotkey for E-AC3,DTS downmix"
+msgstr ""
+
+msgid "E-Hotkey: Enigma2 restart"
+msgstr ""
+
+msgid "Choosing a Hotkey for Enigma2 restart"
+msgstr ""
+
+msgid "E-Hotkey: Mute after Enigma2 restart "
+msgstr ""
+
+msgid "When Enabled  after Enigma2 restarted sound will be off"
+msgstr ""
+
+msgid "E-Settings: Autotime cache flush"
+msgstr ""
+
+msgid "Choosing a time for cache flush"
+msgstr ""
+
+msgid "E-Settings: Set cache flush mode"
+msgstr ""
+
+msgid "Choosing a mode (free pagecache, dentries and inodes) for cache flush"
+msgstr ""
+
+msgid "E-Settings: NTP time syncronization"
+msgstr ""
+
+msgid "When Enabled NTP time syncronization will on"
+msgstr ""
+
+msgid "E-Settings: Select NTP server"
+msgstr ""
+
+msgid "Choosing a server for NTP time syncronization"
+msgstr ""
+
+msgid "E-Settings: Add DNS server (reboot required)"
+msgstr ""
+
+msgid "Choosing and add DNS server"
+msgstr ""
+
+msgid "E-Settings: Set EPG filename"
+msgstr ""
+
+msgid "Choosing a EPG file name"
+msgstr ""
+
+msgid "E-Settings: Path to place EPG file"
+msgstr ""
+
+msgid "Choosing a path for EPG file"
+msgstr ""
+
+msgid "E-Settings: Auto opkg update"
+msgstr ""
+
+msgid "Choosing a time for opkg update"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "E-Tools %s"
+msgstr ""
+
+msgid "configuration is saved"
+msgstr ""
+
+msgid "Downmix AC3,DTS is ON"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Downmix AC3,DTS is OFF"
+msgstr ""
+
+msgid "E-Intaller MultiSelect Mode (press [info] for --force change)"
+msgstr ""
+
+msgid "E-Intaller SingleSelect Mode (press [info] for --force change)"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Install packets"
+msgstr ""
+
+msgid "Install tar.gz, bh.tgz, nab.tgz"
+msgstr ""
+
+msgid "E-Softcam Manager"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "inmemory"
+msgstr ""
+
+msgid "%s loaded in memory"
+msgstr ""
+
+msgid "not loaded modules"
+msgstr ""
+
+msgid "Removing startscript..."
+msgstr ""
+
+msgid "Adding startscript..."
+msgstr ""
+
+msgid "Starting..."
+msgstr ""
+
+msgid "Restarting..."
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Stoping..."
+msgstr ""
+
+msgid "Removing ecm.info..."
+msgstr ""
+
+msgid "Creating None script..."
+msgstr ""
+
+msgid "Softcam or/and Cardserver not active"
+msgstr ""
+
+msgid "Restarting %s"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "Processing..."
+msgstr ""
+
+msgid "Second config not found..."
+msgstr ""
+
+msgid "AC3,DTS downmix is %s"
+msgstr ""
+
+msgid "Reloading %s"
+msgstr ""
+
+msgid "E-Swap"
+msgstr ""
+
+msgid "Manage Swap on %s"
+msgstr ""
+
+msgid "Start, Stop, Create, Remove Swap file"
+msgstr ""
+
+msgid "Swap file removed"
+msgstr ""
+
+msgid "Swap on mount device"
+msgstr ""
+
+msgid "Swap file stoped"
+msgstr ""
+
+msgid "Swap file started"
+msgstr ""
+
+msgid "Swap off"
+msgstr ""
+
+msgid "Swap on %s off (%s)"
+msgstr ""
+
+msgid "Swap on"
+msgstr ""
+
+msgid "Swap on %s on (%s)"
+msgstr ""
+
+msgid "Remove swap"
+msgstr ""
+
+msgid "Remove swap on %s (%s)"
+msgstr ""
+
+msgid "Make swap on %s (256MB)"
+msgstr ""
+
+msgid "Make swap"
+msgstr ""
+
+msgid "Make swap on %s (512MB)"
+msgstr ""
+
+msgid "Make swap on %s (1024MB)"
+msgstr ""
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Success..."
+msgstr ""
+
+msgid "Failure..."
+msgstr ""
+
+msgid "E-Script executer (%s)"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "ShadowRun"
+msgstr ""
+
+msgid "the script is running in the background..."
+msgstr ""
+
+msgid "E-Crash Viewer (%s) (press [info] for --remove mode change)"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "removed %s"
+msgstr ""
+
+msgid "removed all crashlog files"
+msgstr ""
+
+msgid "E-Crash (%s)"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "E-Cron Editor - %s"
+msgstr ""
+
+msgid "Add tabs"
+msgstr ""
+
+msgid "Remove tabs"
+msgstr ""
+
+msgid "E-Cron Editor - %s"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Day of month"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Day of week"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Every"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "E-Feed Installer (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Installer (%s) (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Installer (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Installer (%s) (press [info] to filter)"
+msgstr ""
+
+msgid "Install extensions from feed"
+msgstr ""
+
+msgid "E-Remover (press [info] to filter)"
+msgstr ""
+
+msgid "E-Remover (%s) (press [info] to filter)"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "force Remove"
+msgstr ""
+
+msgid "E-Remover (press [info] to filter)"
+msgstr ""
+
+msgid "E-Remover (%s) (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Downloader (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Downloader (%s) (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Downloader (press [info] to filter)"
+msgstr ""
+
+msgid "E-Feed Downloader (%s) (press [info] to filter)"
+msgstr ""
+
+msgid "Download extensions from feed"
+msgstr ""
+
+msgid "E-Kernel module manager"
+msgstr ""
+
+msgid "load/unload"
+msgstr ""
+
+msgid "unloaded %s.ko"
+msgstr ""
+
+msgid "loaded %s.ko"
+msgstr ""
+
+msgid "E-Kernel modules currently loaded (lsmod)"
+msgstr ""
+
+msgid "size: %3.01f Kb  %s"
+msgstr ""
+
+msgid "2boom's E-Tools"
+msgstr ""
+
+msgid "E-Tools Menu"
+msgstr ""
+
+msgid "enigma2 toolbox"
+msgstr ""
+
+msgid "E-Tools"
+msgstr ""
+
+msgid "E-Crash viewer (%s)"
+msgstr ""
+
+msgid "E-Crash viewer"
+msgstr ""
+
+msgid "E-Script executer (%s)"
+msgstr ""
+
+msgid "E-Tools script executer"
+msgstr ""
+
+msgid "E-Reload (%s)"
+msgstr ""
+
+msgid "E-Tools: lamedb/Userbouquets"
+msgstr ""
+
+msgid "E-Installer (%s mode)"
+msgstr ""
+
+msgid "E-Tools IPK Installer"
+msgstr ""
+
+msgid "E-Tools SoftCam manager"
+msgstr ""
+
+msgid "E-Softcam quick restart"
+msgstr ""
+
+msgid "E-Tools SoftCam restart"
+msgstr ""
+
+msgid "E-Softcam config switch (%s)"
+msgstr ""
+
+msgid "E-Tools config switch"
+msgstr ""
+
+msgid "E-HDMI-IN - %s"
+msgstr ""
+
+msgid "E-HDMI-IN On/Off"
+msgstr ""
+
+msgid "E-AC3,DTS downmix - %s"
+msgstr ""
+
+msgid "E-AC3,DTS downmix On/Off"
+msgstr ""
