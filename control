@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-etools
+Version: 1.2-r11
+Description: enigma2 tools
+Section: base
+Priority: optional
+Maintainer: 2boom
+License: GPL
+Architecture: all
+OE: enigma2-plugin-extensions-etools
