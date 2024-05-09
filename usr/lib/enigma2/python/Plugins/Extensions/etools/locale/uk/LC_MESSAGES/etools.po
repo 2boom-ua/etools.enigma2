@@ -3,810 +3,771 @@ msgstr ""
 "Project-Id-Version: 2boom's enigma2 toolbox\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-18 01:13+0100\n"
-"PO-Revision-Date: 2022-06-18 09:49+0300\n"
-"Last-Translator: 4bob@ua.fm\n"
-"Language-Team: 4bob@ua.fm\n"
+"PO-Revision-Date: 2024-05-08 12:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"Language: uk_UA\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "Off"
-msgstr ""
+msgstr "Вимк"
 
 msgid "15 min"
-msgstr ""
+msgstr "15 хв"
 
 msgid "30 min"
-msgstr ""
+msgstr "30 хв"
 
 msgid "45 min"
-msgstr ""
+msgstr "45 хв"
 
 msgid "60 min"
-msgstr ""
+msgstr "60 хв"
 
 msgid "120 min"
-msgstr ""
+msgstr "120 хв"
 
 msgid "180 min"
-msgstr ""
+msgstr "180 хв"
 
 msgid "default"
-msgstr ""
+msgstr "за замовчуванням"
 
 msgid "Amazon NTP"
-msgstr ""
+msgstr "Amazon NTP"
 
 msgid "Google Public NTP"
-msgstr ""
+msgstr "Google Public NTP"
 
 msgid "Cloudflare NTP"
-msgstr ""
+msgstr "Cloudflare NTP"
 
 msgid "Facebook NTP"
-msgstr ""
+msgstr "Facebook NTP"
 
 msgid "Microsoft NTP"
-msgstr ""
+msgstr "Microsoft NTP"
 
 msgid "Google DNS"
-msgstr ""
+msgstr "Google DNS"
 
 msgid "Quad9 DNS"
-msgstr ""
+msgstr "Quad9 DNS"
 
 msgid "Cloudflare DNS"
-msgstr ""
+msgstr "Cloudflare DNS"
 
 msgid "AdGuard DNS"
-msgstr ""
+msgstr "AdGuard DNS"
 
 msgid "None"
-msgstr ""
+msgstr "Немає"
 
 msgid "one remove"
-msgstr ""
+msgstr "одне видалення"
 
 msgid "all remove"
-msgstr ""
+msgstr "все видалити"
 
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgid "Multi"
-msgstr ""
+msgstr "Multi"
 
 msgid "Multi files"
-msgstr ""
+msgstr "Кілька файлів"
 
 msgid "Single"
-msgstr ""
+msgstr "Одинарний"
 
 msgid "Single file"
-msgstr ""
+msgstr "Один файл"
 
 msgid "January"
-msgstr ""
+msgstr "Січень"
 
 msgid "February"
-msgstr ""
+msgstr "Лютий"
 
 msgid "March"
-msgstr ""
+msgstr "Березень"
 
 msgid "April"
-msgstr ""
+msgstr "Квітень"
 
 msgid "May"
-msgstr ""
+msgstr "Травень"
 
 msgid "June"
-msgstr ""
+msgstr "Червень"
 
 msgid "Jule"
-msgstr ""
+msgstr "Липень"
 
 msgid "August"
-msgstr ""
+msgstr "Серпень"
 
 msgid "September"
-msgstr ""
+msgstr "Вересень"
 
 msgid "October"
-msgstr ""
+msgstr "Жовтень"
 
 msgid "November"
-msgstr ""
+msgstr "Листопад"
 
 msgid "December"
-msgstr ""
+msgstr "Грудень"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Неділя"
 
 msgid "Monday"
-msgstr ""
+msgstr "Понеділок"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Вівторок"
 
 msgid "Wensday"
-msgstr ""
+msgstr "Середа"
 
 msgid "Thursday"
-msgstr ""
+msgstr "Четвер"
 
 msgid "Friday"
-msgstr ""
+msgstr "П'ятниця"
 
 msgid "Saterday"
-msgstr ""
+msgstr "Субота"
 
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 msgid "Minute"
-msgstr ""
+msgstr "Хвилина"
 
 msgid "Hour"
-msgstr ""
-
-msgid "Month"
-msgstr ""
+msgstr "Година"
 
 msgid "Day of week"
-msgstr ""
+msgstr "День тижня"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgid "Config"
-msgstr ""
+msgstr "Конфіг"
 
 msgid "E-Softcam manager (%s)"
-msgstr ""
+msgstr "E-Softcam manager (%s)"
 
 msgid "Start, stop, restart softcam"
-msgstr ""
-
-
+msgstr "Запуск, зупинка, перезапуск softcam"
 
 msgid "Install/uninstall local .ipk & .tar.gz"
-msgstr ""
+msgstr "Встановлення/видалення локальних .ipk та .tar.gz"
 
 msgid "E-Remover for packets"
-msgstr ""
+msgstr "E-Remover для пакетів"
 
 msgid "Local remove ipk packets"
-msgstr ""
+msgstr "Локальне видалення пакетів ipk"
 
 msgid "E-Feed Installer"
-msgstr ""
+msgstr "E-Feed Installer"
 
 msgid "Install extensions from feed"
-msgstr ""
+msgstr "Установка доповнень з фіда"
 
 msgid "E-Feed Downloader"
-msgstr ""
+msgstr "E-Feed Downloader"
 
 msgid "Download extensions from feed"
-msgstr ""
+msgstr "Завантаження доповнень з фіда"
 
 msgid "E-Crash viewer (%s)"
-msgstr ""
+msgstr "E-Crash переглядач (%s)"
 
 msgid "Enigma2 crashlog viewer"
-msgstr ""
+msgstr "Enigma2 переглядач журналу аварій Enigma2"
 
 msgid "E-Swap manager (%s)"
-msgstr ""
+msgstr "E-Swap manager (%s)"
 
 msgid "Create, start, stop, remove swapfile"
-msgstr ""
+msgstr "Створення, запуск, зупинка, видалення файлу підкачки"
 
 msgid "E-Script (%s)"
-msgstr ""
+msgstr "E-Script (%s)"
 
 msgid "Start script files from user directory"
-msgstr ""
+msgstr "Запуск файлів скриптів з каталогу користувача"
 
 msgid "E-Cron editor"
-msgstr ""
+msgstr " E-Cron Редактор"
 
 msgid "Add, remove tabs"
-msgstr ""
+msgstr "Додавання, видалення вкладок"
 
 msgid "E-Kernel module manager"
-msgstr ""
+msgstr " E-Kernel  Менеджер модулів "
 
 msgid "Load/unload kernel module"
-msgstr ""
+msgstr "Завантаження/вивантаження модуля ядра"
 
 msgid "E-Tools config"
-msgstr ""
+msgstr "E-Tools конфігурація"
+
+msgid "Selective or full system upgrade"
+msgstr "Вибіркове або повне оновлення системи"
 
 msgid "E-Tools: in Main Menu"
-msgstr ""
+msgstr "E-Tools: в головному меню"
 
 msgid "When Enabled E-TOOLS will appear in the main menu"
-msgstr ""
+msgstr "Після увімкнення в головному меню з'явиться пункт E-TOOLS"
 
 msgid "E-Tools: MenuMode in Plugins Menu"
-msgstr ""
+msgstr "E-Tools: MenuMode у меню плагінів"
 
 msgid "Choosing a view (menu or configuration) in the plugins menu"
-msgstr ""
+msgstr "Вибір вигляду (меню або конфігурації) в меню плагінів"
 
 msgid "E-Tools: Menu Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Tools: Відображення меню в меню розширення"
 
 msgid "When enabled, the E-TOOLS Menu will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, меню E-TOOLS з'явиться в меню розширень"
 
 msgid "E-Tools: Config Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Tools: Відображення конфігурації в меню розширень"
 
 msgid "When enabled, the E-TOOLS Configuration will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, конфігурація E-TOOLS з'явиться в меню розширень"
 
 msgid "E-Softcam: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Softcam: Показати в меню розширення"
 
 msgid "When enabled, the E-Softcam Manager will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, E-Softcam Manager з'явиться в меню розширень"
 
 msgid "E-Softcam Restart: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Softcam Restart: Показати в меню розширення"
 
 msgid "When enabled, the E-Softcam Restarter will appear in the extensions menu"
-msgstr ""
+msgstr "Коли увімкнено, E-Softcam Restarter з'явиться в меню розширень"
 
 msgid "E-Softcam Restart: Hotkey"
-msgstr ""
+msgstr "E-Softcam Restart: Гаряча клавіша"
 
 msgid "Choosing a Hotkey for Restart softcam"
-msgstr ""
+msgstr "Вибір гарячої клавіші для перезапуску softcam"
 
 msgid "E-Softcam Switch Config: Restart Emu after Switch config"
-msgstr ""
+msgstr "E-Softcam Switch Config: Перезапуск Emu після налаштування комутатора"
 
 msgid "When enabled, Emu will restart after switch config"
-msgstr ""
+msgstr "Якщо увімкнено, Emu перезапуститься після перемикання конфігурації"
 
 msgid "E-Softcam Switch Config: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Softcam Switch Config: Показати в меню розширення"
 
 msgid "When enabled, the E-Softcam Switch Config will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, E-Softcam Switch Config з'явиться в меню розширень"
 
 msgid "E-Softcam Switch Config: Hotkey"
-msgstr ""
+msgstr "E-Softcam Switch Config: Гаряча клавіша"
 
 msgid "Choosing a Hotkey for E-Softcam Switch Config"
-msgstr ""
+msgstr "Вибір гарячої клавіші для налаштування перемикача E-Softcam"
 
 msgid "E-Installer: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Installer: Показати в меню розширення"
 
 msgid "When enabled, the E-Installer will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, E-Installer з'явиться в меню розширень"
 
 msgid "E-Installer: Select Multi or Single file mode"
-msgstr ""
+msgstr "E-Installer: Виберіть режим декількох або одного файлу"
 
 msgid "Mode selection (multiple or single) for installation packages"
-msgstr ""
+msgstr "Вибір режиму (декілька або один) для інсталяційних пакунків"
 
 msgid "E-Installer: Force install mode"
-msgstr ""
+msgstr "E-Installer: Режим примусового встановлення"
 
 msgid "Selecting a Mode for Forced Installation of Packages"
-msgstr ""
+msgstr "Вибір режиму примусового встановлення пакунків"
 
 msgid "E-Installer: User directory on mount device"
-msgstr ""
+msgstr "E-Installer: Каталог користувача на змонтованому пристрої"
 
 msgid "Selecting a directory to search for installation packages"
-msgstr ""
+msgstr "Вибір каталогу для пошуку інсталяційних пакунків"
 
 msgid "E-Feed Downloder: Filter extentions"
-msgstr ""
+msgstr "E-Feed Downloder: Розширення фільтрів"
 
 msgid "Selecting filters to quickly find packages for E-Feed Downloder"
-msgstr ""
+msgstr "Вибір фільтрів, щоб швидко знайти пакунки для E-Feed Downloder"
 
 msgid "E-Feed Installer: Filter extentions"
-msgstr ""
+msgstr "E-Feed Installer: Розширення фільтрів"
+
+msgid "E-System Upgrade: Show in ExtensionMenu"
+msgstr "E-System Upgrade: Показати в меню розширення"
 
 msgid "Selecting filters to quickly find packages for E-Feed Installer"
-msgstr ""
+msgstr "Вибір фільтрів для швидкого пошуку пакунків для E-Feed Installer"
 
 msgid "E-Remover: Filter extentions"
-msgstr ""
+msgstr "E-Remover: Розширення фільтрів"
 
 msgid "Selecting filters to quickly find packages for E-Remover"
-msgstr ""
+msgstr "Вибір фільтрів для швидкого пошуку пакетів для E-Remover"
 
 msgid "E-Crash: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Crash: Показати в меню розширення"
 
 msgid "When enabled, the E-Crash viewer will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, переглядач E-Crash з'явиться в меню розширень"
 
 msgid "E-Crash: Path for crashlog files"
-msgstr ""
+msgstr "E-Crash: Шлях до файлів журналу аварій"
 
 msgid "Selecting path to quickly find crash log files"
-msgstr ""
+msgstr "Вибір шляху для швидкого пошуку файлів журналу аварій"
 
 msgid "E-Crash: Remove files mode"
-msgstr ""
+msgstr "E-Crash: Режим видалення файлів"
 
 msgid "Selecting a Mode (single or all) for remove crash log files"
-msgstr ""
+msgstr "Вибір режиму (один або всі) для видалення файлів журналу аварійних ситуацій"
 
 msgid "E-Script: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Script: Показати в меню розширення"
 
 msgid "When enabled, the E-Script will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, E-Script з'явиться в меню розширень"
 
 msgid "E-Script: Path for script files"
-msgstr ""
+msgstr "E-Script: Шлях до файлів скриптів"
 
 msgid "Selecting path to quickly find script files"
-msgstr ""
+msgstr "Вибір шляху для швидкого пошуку файлів скриптів"
 
 msgid "E-Reload: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-Reload: Показати в меню розширення"
 
 msgid "When enabled, the E-Reload will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, E-Reload з'явиться в меню розширень"
 
 msgid "E-Reload: Mode"
-msgstr ""
+msgstr "E-Reload: Режим"
 
 msgid "Choosing a mode (Lamedb or Userbouquets) for E-Reload"
-msgstr ""
+msgstr "Вибір режиму (Lamedb або Userbouquets) для E-Reload"
 
 msgid "E-Reload: Hotkey"
-msgstr ""
+msgstr "E-Reload: Гаряча клавіша"
 
 msgid "Choosing a Hotkey for E-Reload"
-msgstr ""
+msgstr "Вибір гарячої клавіші для електронного перезавантаження"
 
 msgid "E-HDMI-IN On/Off: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-HDMI-IN Увімкнути/вимкнути: Показати в меню розширення"
 
 msgid "When enabled, the E-HDMI-IN (On/Off) will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, E-HDMI-IN (Увімкнено/Вимкнено) з'явиться в меню розширень"
 
 msgid "E-HDMI-IN: Hotkey"
-msgstr ""
+msgstr "E-HDMI-IN: Гаряча клавіша"
 
 msgid "Choosing a Hotkey for E-HDMI-IN"
-msgstr ""
+msgstr "Вибір гарячої клавіші для E-HDMI-IN"
 
 msgid "E-AC3,DTS downmix: Show in ExtensionMenu"
-msgstr ""
+msgstr "E-AC3, DTS downmix: Показати в меню розширення"
 
 msgid "When enabled, the E-AC3,DTS downmix will appear in the extensions menu"
-msgstr ""
+msgstr "Якщо увімкнено, у меню розширень з'явиться даунмікс E-AC3,DTS"
 
 msgid "E-AC3,DTS downmix: Hotkey"
-msgstr ""
+msgstr "E-AC3, DTS downmix: Гаряча клавіша"
 
 msgid "Choosing a Hotkey for E-AC3,DTS downmix"
-msgstr ""
+msgstr "Вибір гарячої клавіші для даунміксу E-AC3, DTS"
 
 msgid "E-Hotkey: Enigma2 restart"
-msgstr ""
+msgstr "E-Hotkey: Перезапуск Enigma2"
 
 msgid "Choosing a Hotkey for Enigma2 restart"
-msgstr ""
+msgstr "Вибір гарячої клавіші для перезапуску Enigma2"
 
 msgid "E-Hotkey: Mute after Enigma2 restart "
-msgstr ""
+msgstr "E-Hotkey: Вимкнення звуку після перезапуску Enigma2"
 
 msgid "When Enabled  after Enigma2 restarted sound will be off"
-msgstr ""
+msgstr "Якщо увімкнено, після перезапуску Enigma2 звук буде вимкнено"
 
 msgid "E-Settings: Autotime cache flush"
-msgstr ""
+msgstr "E-Settings: Очищення кешу в автоматичному режимі"
 
 msgid "Choosing a time for cache flush"
-msgstr ""
+msgstr "Вибір часу для очищення кешу"
 
 msgid "E-Settings: Set cache flush mode"
-msgstr ""
+msgstr "E-Settings: Встановити режим очищення кешу"
 
 msgid "Choosing a mode (free pagecache, dentries and inodes) for cache flush"
-msgstr ""
+msgstr "Вибір режиму (вільний кеш сторінок, дентрі та іноди) для очищення кешу"
 
 msgid "E-Settings: NTP time syncronization"
-msgstr ""
+msgstr "E-Settings: Синхронізація часу NTP"
 
 msgid "When Enabled NTP time syncronization will on"
-msgstr ""
+msgstr "Якщо увімкнено, синхронізація часу NTP буде ввімкнена"
 
 msgid "E-Settings: Select NTP server"
-msgstr ""
+msgstr "E-Settings: Виберіть NTP-сервер"
 
 msgid "Choosing a server for NTP time syncronization"
-msgstr ""
+msgstr "Вибір сервера для синхронізації часу NTP"
 
 msgid "E-Settings: Add DNS server (reboot required)"
-msgstr ""
+msgstr "E-Settings: Додати DNS-сервер (потрібне перезавантаження)"
 
 msgid "Choosing and add DNS server"
-msgstr ""
+msgstr "Вибір і додавання DNS-сервера"
 
 msgid "E-Settings: Set EPG filename"
-msgstr ""
+msgstr "E-Settings: Встановити ім'я файлу EPG"
 
 msgid "Choosing a EPG file name"
-msgstr ""
+msgstr "Вибір імені файлу EPG"
 
 msgid "E-Settings: Path to place EPG file"
-msgstr ""
+msgstr "E-Settings: Шлях для розміщення файлу EPG"
 
 msgid "Choosing a path for EPG file"
-msgstr ""
+msgstr "Вибір шляху до файлу EPG"
 
 msgid "E-Settings: Auto opkg update"
-msgstr ""
+msgstr "E-Settings: Автоматичне оновлення opkg"
 
 msgid "Choosing a time for opkg update"
-msgstr ""
+msgstr "Вибір часу для оновлення opkg"
 
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 msgid "E-Tools %s"
-msgstr ""
+msgstr "E-Tools %s"
 
 msgid "configuration is saved"
-msgstr ""
+msgstr "конфігурація збережена"
 
 msgid "Downmix AC3,DTS is ON"
-msgstr ""
+msgstr "Downmix AC3,DTS увімкнено"
 
 msgid "On"
-msgstr ""
+msgstr "Увімк"
 
 msgid "Downmix AC3,DTS is OFF"
-msgstr ""
+msgstr "Downmix AC3,DTS вимкнено"
 
 msgid "E-Intaller MultiSelect Mode (press [info] for --force change)"
-msgstr ""
+msgstr "E-Intaller: Режим багаторазового вибору  (натисніть [info] для зміни сили натискання)"
 
 msgid "E-Intaller SingleSelect Mode (press [info] for --force change)"
-msgstr ""
+msgstr "E-Intaller SingleSelect Mode (натисніть [info] для зміни сили натискання)"
 
 msgid "Install"
-msgstr ""
+msgstr "Встановити"
 
 msgid "Install packets"
-msgstr ""
+msgstr "Встановлення пакетів"
 
 msgid "Install tar.gz, bh.tgz, nab.tgz"
-msgstr ""
+msgstr "Встановіть tar.gz, bh.tgz, nab.tgz"
 
 msgid "E-Softcam Manager"
-msgstr ""
+msgstr "E-Softcam Manager"
 
 msgid "Start"
-msgstr ""
+msgstr "Початок"
 
 msgid "Stop"
-msgstr ""
+msgstr "Зупинити"
 
 msgid "inmemory"
-msgstr ""
+msgstr "пам'ять"
 
 msgid "%s loaded in memory"
-msgstr ""
+msgstr "%s завантажено в пам'ять"
 
 msgid "not loaded modules"
-msgstr ""
+msgstr "не завантажені модулі"
 
 msgid "Removing startscript..."
-msgstr ""
+msgstr "Видалення стартового сценарію..."
 
 msgid "Adding startscript..."
-msgstr ""
+msgstr "Додавання стартового сценарію..."
 
 msgid "Starting..."
-msgstr ""
+msgstr "Починаю..."
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Перезапуск..."
 
 msgid "Please wait"
-msgstr ""
+msgstr "Зачекайте, будь ласка"
 
 msgid "Stoping..."
-msgstr ""
+msgstr "Зупинка..."
 
 msgid "Removing ecm.info..."
-msgstr ""
+msgstr "Видалення ecm.info..."
 
 msgid "Creating None script..."
-msgstr ""
+msgstr "Створення сценарію None..."
 
 msgid "Softcam or/and Cardserver not active"
-msgstr ""
+msgstr "Softcam або/та Cardserver не активні"
 
 msgid "Restarting %s"
-msgstr ""
+msgstr "Перезапуск %s"
 
 msgid "status"
-msgstr ""
+msgstr "статус"
 
 msgid "Processing..."
-msgstr ""
+msgstr "Обробляю..."
 
 msgid "Second config not found..."
-msgstr ""
+msgstr "Другий конфіг не знайдено..."
 
 msgid "AC3,DTS downmix is %s"
-msgstr ""
+msgstr "AC3,DTS downmix - %s"
 
 msgid "Reloading %s"
-msgstr ""
+msgstr "Перезавантаження %s"
 
 msgid "E-Swap"
-msgstr ""
+msgstr "E-Swap"
 
 msgid "Manage Swap on %s"
-msgstr ""
+msgstr "Керування свопом на %s"
 
 msgid "Start, Stop, Create, Remove Swap file"
-msgstr ""
+msgstr "Запуск, зупинка, створення, видалення файлу підкачки"
 
 msgid "Swap file removed"
-msgstr ""
+msgstr "Видалено файл підкачки"
 
 msgid "Swap on mount device"
-msgstr ""
+msgstr "Заміна на монтажному пристрої"
 
 msgid "Swap file stoped"
-msgstr ""
+msgstr "Файл підкачки зупинено"
 
 msgid "Swap file started"
-msgstr ""
+msgstr "Запущено файл підкачки"
 
 msgid "Swap off"
-msgstr ""
+msgstr "Поміняйтеся місцями"
 
 msgid "Swap on %s off (%s)"
-msgstr ""
+msgstr "Увімкнути %s вимкнути (%s)"
 
 msgid "Swap on"
-msgstr ""
+msgstr "Поміняти на"
 
 msgid "Swap on %s on (%s)"
-msgstr ""
+msgstr "Замінити %s на (%s)"
 
 msgid "Remove swap"
-msgstr ""
+msgstr "Видалити підміну"
 
 msgid "Remove swap on %s (%s)"
-msgstr ""
+msgstr "Видалити підстановку на %s (%s)"
 
 msgid "Make swap on %s (256MB)"
-msgstr ""
+msgstr "Зробіть підкачку на %s (256 МБ)"
 
 msgid "Make swap"
-msgstr ""
+msgstr "Зробити обмін"
 
 msgid "Make swap on %s (512MB)"
-msgstr ""
+msgstr "Зробіть підкачку на %s (512 МБ)"
 
 msgid "Make swap on %s (1024MB)"
-msgstr ""
+msgstr "Зробіть підкачку на %s (1024MB)"
 
 msgid "Creating..."
-msgstr ""
+msgstr "Створення..."
 
 msgid "Success..."
-msgstr ""
+msgstr "Успіх..."
 
 msgid "Failure..."
-msgstr ""
+msgstr "Невдача..."
 
 msgid "E-Script executer (%s)"
-msgstr ""
+msgstr "E-Script executer (%s)"
 
 msgid "Run"
-msgstr ""
+msgstr "Запуск"
 
 msgid "ShadowRun"
-msgstr ""
+msgstr "ShadowRun"
 
 msgid "the script is running in the background..."
-msgstr ""
+msgstr "скрипт працює у фоновому режимі..."
 
 msgid "E-Crash Viewer (%s) (press [info] for --remove mode change)"
-msgstr ""
+msgstr "E-Crash Viewer (%s) (натисніть [info] для --видалити зміну режиму)"
 
 msgid "View"
-msgstr ""
+msgstr "Перегляд"
 
 msgid "removed %s"
-msgstr ""
+msgstr "видалено %s"
 
 msgid "removed all crashlog files"
-msgstr ""
+msgstr "видалено всі файли журналу аварійних ситуацій"
 
 msgid "E-Crash (%s)"
-msgstr ""
+msgstr "E-Crash (%s)"
 
 msgid "Restart"
-msgstr ""
+msgstr "Перезапустити"
 
 msgid "E-Cron Editor - %s"
-msgstr ""
+msgstr "Редактор E-Cron - %s"
 
 msgid "Add tabs"
-msgstr ""
+msgstr "Додавання вкладок"
 
 msgid "Remove tabs"
-msgstr ""
-
-msgid "E-Cron Editor - %s"
-msgstr ""
+msgstr "Видалити вкладки"
 
 msgid "Min"
-msgstr ""
+msgstr "Мін"
 
 msgid "Day of month"
-msgstr ""
+msgstr "День місяця"
 
 msgid "Month"
-msgstr ""
-
-msgid "Day of week"
-msgstr ""
+msgstr "Місяць"
 
 msgid "Command"
-msgstr ""
+msgstr "Команда"
 
 msgid "Every"
-msgstr ""
+msgstr "Кожен"
 
 msgid "Add"
-msgstr ""
+msgstr "Додати"
 
 msgid "E-Feed Installer (press [info] to filter)"
-msgstr ""
+msgstr "E-Feed Installer (натисніть [info], щоб відфільтрувати)"
 
 msgid "E-Feed Installer (%s) (press [info] to filter)"
-msgstr ""
-
-msgid "E-Feed Installer (press [info] to filter)"
-msgstr ""
-
-msgid "E-Feed Installer (%s) (press [info] to filter)"
-msgstr ""
-
-msgid "Install extensions from feed"
-msgstr ""
+msgstr "E-Feed Installer (%s) (натисніть [info], щоб відфільтрувати)"
 
 msgid "E-Remover (press [info] to filter)"
-msgstr ""
+msgstr "E-Remover (натисніть [info], щоб відфільтрувати)"
 
 msgid "E-Remover (%s) (press [info] to filter)"
-msgstr ""
+msgstr "E-Remover (%s) (натисніть [info], щоб відфільтрувати)"
 
 msgid "Remove"
-msgstr ""
+msgstr "Видалити"
 
 msgid "force Remove"
-msgstr ""
-
-msgid "E-Remover (press [info] to filter)"
-msgstr ""
-
-msgid "E-Remover (%s) (press [info] to filter)"
-msgstr ""
+msgstr "примусово Видалити"
 
 msgid "E-Feed Downloader (press [info] to filter)"
-msgstr ""
+msgstr "E-Feed Downloader (натисніть [info], щоб відфільтрувати)"
 
 msgid "E-Feed Downloader (%s) (press [info] to filter)"
-msgstr ""
-
-msgid "E-Feed Downloader (press [info] to filter)"
-msgstr ""
-
-msgid "E-Feed Downloader (%s) (press [info] to filter)"
-msgstr ""
-
-msgid "Download extensions from feed"
-msgstr ""
-
-msgid "E-Kernel module manager"
-msgstr ""
+msgstr "E-Feed Downloader (%s) (натисніть [info], щоб відфільтрувати)"
 
 msgid "load/unload"
-msgstr ""
+msgstr "завантажувати / вивантажувати"
 
 msgid "unloaded %s.ko"
-msgstr ""
+msgstr "unloaded %s.ko"
 
 msgid "loaded %s.ko"
-msgstr ""
+msgstr "завантажено %s.ko"
 
 msgid "E-Kernel modules currently loaded (lsmod)"
-msgstr ""
+msgstr "E-Kernel modules, завантажені на даний момент (lsmod)"
 
 msgid "size: %3.01f Kb  %s"
-msgstr ""
+msgstr "розмір: %3.01f Кб %s %s"
 
 msgid "2boom's E-Tools"
-msgstr ""
+msgstr "2boom's E-Tools"
 
 msgid "E-Tools Menu"
-msgstr ""
+msgstr "E-Tools Menu"
 
 msgid "enigma2 toolbox"
-msgstr ""
+msgstr "інструментарій enigma2"
 
 msgid "E-Tools"
-msgstr ""
-
-msgid "E-Crash viewer (%s)"
-msgstr ""
+msgstr "E-Tools"
 
 msgid "E-Crash viewer"
-msgstr ""
-
-msgid "E-Script executer (%s)"
-msgstr ""
+msgstr "E-Crash переглядач"
 
 msgid "E-Tools script executer"
-msgstr ""
+msgstr "E-Tools script executer"
 
 msgid "E-Reload (%s)"
-msgstr ""
+msgstr "E-Reload (%s)"
 
 msgid "E-Tools: lamedb/Userbouquets"
-msgstr ""
+msgstr "E-Tools: lamedb/Userbouquets"
 
 msgid "E-Installer (%s mode)"
-msgstr ""
+msgstr "E-Installer (режим %s)"
 
 msgid "E-Tools IPK Installer"
-msgstr ""
+msgstr " E-Tools IPK Інсталятор"
 
 msgid "E-Tools SoftCam manager"
-msgstr ""
+msgstr "E-Tools SoftCam менеджер"
 
 msgid "E-Softcam quick restart"
-msgstr ""
+msgstr "E-Softcam Швидкий перезапуск"
 
 msgid "E-Tools SoftCam restart"
-msgstr ""
+msgstr "E-Tools SoftCam перезапустити"
 
 msgid "E-Softcam config switch (%s)"
-msgstr ""
+msgstr "E-Softcam Перемикач конфігурації (%s)"
 
 msgid "E-Tools config switch"
-msgstr ""
+msgstr "Перемикач конфігурації E-Tools"
 
 msgid "E-HDMI-IN - %s"
-msgstr ""
+msgstr "E-HDMI-IN - %s"
 
 msgid "E-HDMI-IN On/Off"
-msgstr ""
+msgstr "E-HDMI-IN Вкл/Викл"
 
 msgid "E-AC3,DTS downmix - %s"
-msgstr ""
+msgstr "E-AC3, DTS downmix - %s"
 
 msgid "E-AC3,DTS downmix On/Off"
-msgstr ""
-
+msgstr "E-AC3, DTS downmix Вкл/Викл"
